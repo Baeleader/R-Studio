@@ -7,7 +7,7 @@ x
 mode(x)
 typeof(x)
 y = 300
-x = "빅데이터 이해"
+x = "Understanding Big Data "
 mode(x)
 x = 5 < 6
 x
